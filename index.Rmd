@@ -11,4 +11,7 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to the analysis of voting accessability data. I think it would be interesting to track how poll distance affects voting rates. This data is important because it would allow governments to better place polling locations to maximize voter participation. 
+I am interested in exploring data related to the analysis of various polls, and what factors may cause a poll to be more or less accurate. 
+
+
+For my research question I want to determine if geography and type of institution, such as a college or a news organization, can influence the accuracy of the conducted polls. I am using 538's poll ratings and detail as my data set. I hypothesize that polls run by institutions originating in places that lack political diversity or are dominated by one party will be slightly less accurate than polls conducted from more moderate political geography, and I hypothesize that colleges and other insitutuons will be less accurate than news organizations. The explanatory variable of interest would be political geography and then the "level" of institution, educational or from the media. The outcome variable of interest would be the difference between the accuracy the different groups of polls. If media polls in more moderate or diverse areas are more effective in reflecting the eventual outcome, I will conclude that these polls are more useful to determine elections. 
